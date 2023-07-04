@@ -1,4 +1,4 @@
-# Pong (a recreation by Hang Pham)
+# Pong (a recreation)
 The following project provides a recreation of the popular game Pong, with some novel functionalities. 
 
 ## Guide to Game 
